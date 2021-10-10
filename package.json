@@ -1,0 +1,22 @@
+{
+  "name": "docs-easy-email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "docsify serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-Ryan/docs-easy-email.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-Ryan/docs-easy-email/issues"
+  },
+  "homepage": "https://github.com/m-Ryan/docs-easy-email#readme"
+}

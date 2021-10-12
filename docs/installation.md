@@ -53,7 +53,7 @@ export function App() {
   | onAddCollection    | (payload: CollectedBlock) => void;                                                                 | Add to collection list                                                                              |
   | onRemoveCollection | (payload: { id: string; }) => void;                                                                | Remove from collection list                                                                         |
   | dashed             | boolean                                                                                            | Show dashed                                                                                         |
-  | autoComplete       | boolean                                                                                            | Automatically complete missing blocks, such as Text => Section, will generate Text=>Column=>Section |
+  | autoComplete       | boolean                                                                                            | Automatically complete missing blocks. For example, Text => Section, will generate Text=>Column=>Section |
 
 - ## EmailEditor
 

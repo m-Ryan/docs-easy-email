@@ -1,7 +1,7 @@
-- [Overview](/overview)
+- [Overview](/)
 
 - [Installation](/installation)
 
-- [Basics](/basics)
-
 - [Advanced](/advanced)
+
+- [Other](/other)

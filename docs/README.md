@@ -10,8 +10,6 @@ Easy email is developed based on the [MJML](https://mjml.io/), it can generate c
 - Defined custom block
 - Dynamic rendering
 
-
-
 ## Drag and drop
 
 <img width="600" src="https://assets.maocanhua.cn/5550d4bf-a2b5-486d-8937-11d667318a14-drag-drop.gif" />
@@ -19,6 +17,10 @@ Easy email is developed based on the [MJML](https://mjml.io/), it can generate c
 ## Collect block
 
 <img width="600" src="https://assets.maocanhua.cn/a7ba1a1d-6d8b-420a-adc6-cd70be405893-collection.gif" />
+
+## Dynamic rendering
+
+<img width="600" src="https://assets.maocanhua.cn/4b351206-cba8-49a0-b05c-e093fc06b068-dynamic.gif" />
 
 ## Hotkeys
 
